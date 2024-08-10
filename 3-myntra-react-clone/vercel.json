@@ -4,5 +4,9 @@
       "source": "/(.*)",
       "destination": "/"
     }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/" },
+    { "src": "/bag", "dest": "/" }
   ]
 }
